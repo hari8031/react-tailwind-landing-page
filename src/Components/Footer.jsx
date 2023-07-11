@@ -16,28 +16,28 @@ const Footer = () => {
         space-y-12 md:flex-col md:space-y-0 md:items-start "
         >
           <img
-            src="/src/assets/image/logo-white.svg"
+            src="/image/logo-white.svg"
             alt=""
             className="h-8 mt-5"
           />
           <div className="flex justify-center space-x-4 md:pt-2">
             <a href="#">
               <img
-                src="/src/assets/image/icon-youtube.svg"
+                src="/image/icon-youtube.svg"
                 className="h-8"
                 alt=""
               />
             </a>
             <a href="#">
               <img
-                src="/src/assets/image/icon-facebook.svg"
+                src="/image/icon-facebook.svg"
                 className="h-8"
                 alt=""
               />
             </a>
             <a href="#">
               <img
-                src="/src/assets/image/icon-twitter.svg"
+                src="/image/icon-twitter.svg"
                 className="h-8"
                 alt=""
               />
@@ -45,14 +45,14 @@ const Footer = () => {
 
             <a href="#">
               <img
-                src="/src/assets/image/icon-instagram.svg"
+                src="/image/icon-instagram.svg"
                 className="h-8"
                 alt=""
               />
             </a>
             <a href="#">
               <img
-                src="/src/assets/image/icon-pinterest.svg"
+                src="/image/icon-pinterest.svg"
                 className="h-8"
                 alt=""
               />

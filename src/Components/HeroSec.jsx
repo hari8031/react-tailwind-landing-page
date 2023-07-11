@@ -30,7 +30,7 @@ const HeroSec = () => {
         </div>
         {/* hero-image */}
         <div className="md:w-1/2">
-            <img src="/src/assets/image/illustration-intro.svg" alt="" />
+            <img src="/image/illustration-intro.svg" alt="" />
         </div>
       </div>
     </section>

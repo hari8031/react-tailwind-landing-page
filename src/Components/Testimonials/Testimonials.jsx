@@ -33,21 +33,21 @@ export default Testimonials;
 const data = [
   {
     name: "Anisha Li",
-    image: "/src/assets/image/avatar-anisha.png",
+    image: "/image/avatar-anisha.png",
     comment: `“Manage has supercharged our team’s workflow. The ability to
   maintain visibility on larger milestones at all times keeps
   everyone motivated.”`,
   },
   {
     name: "Ali Bravo",
-    image: "/src/assets/image/avatar-ali.png",
+    image: "/image/avatar-ali.png",
     comment: `“We have been able to cancel so many other subscriptions since
     using Manage. There is no more cross-channel confusion and
     everyone is much more focused.”`,
   },
   {
     name: "Richard Watts",
-    image: "/src/assets/image/avatar-richard.png",
+    image: "/image/avatar-richard.png",
     comment: ` “Manage has supercharged our team’s workflow. The ability to
     maintain visibility on larger milestones at all times keeps
     everyone motivated.”`,
