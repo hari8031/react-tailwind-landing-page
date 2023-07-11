@@ -7,7 +7,7 @@ const NavBar = () => {
         <div className="flex items-center justify-between">
           {/*logo */}
           <div className="pt-2 cursor-pointer">
-            <img src="/public/image/logo.svg" alt="" />
+            <img src="/image/logo.svg" alt="logo" />
           </div>
           {/* menu */}
           <div className=" hidden md:flex space-x-6">
